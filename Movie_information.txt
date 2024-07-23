@@ -1,0 +1,5 @@
+A01        ANT-MAN AND THE WASP: QUANTUMANIA        2 Hours 05 Minutes        Peyton Reed                    ENGLISH         Action / Adventure / Comedy      1    18.00    10:00AM-12:15PM
+A02        DEMON SLAYER: KIMETSU NO YAIBO           1 Hour  50 Minutes        Haruo Sotozaki                 JAPANESE        Animation                        2    16.50    12:30PM-14:30PM
+A03        PULAU                                    1 Hour  50 Minutes        Euho                           MALAY           Horror / Thriller                3    14.25    15:00PM-17:00PM
+A04        65                                       1 Hour  35 Minutes        Scott Beck, Bryan Woods        ENGLISH         Science Fiction / Thriller       4    17.00    17:30PM-19:15PM
+A05        DASARA                                   2 Hours 40 Minutes        Srikanth Odhela                TAMIL           Action / Drama                   5    12.00    19:30PM-22:20PM	
