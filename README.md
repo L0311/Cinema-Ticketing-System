@@ -1,5 +1,5 @@
 # Cinema-Ticketing-System
-A cinema ticketing system that developed by using C++. 
+A cinema ticketing system that was developed using C++.
 
 Main functionalities include:
 
